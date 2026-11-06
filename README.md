@@ -94,14 +94,16 @@ University of Algiers 1 | 2021 – 2024
 
 ---
 
+
 ## 🏅 Certifications
 
-- SAP Certified – Data Analyst – SAP Analytics Cloud
+- [SAP Certified – Data Analyst – SAP Analytics Cloud](https://www.credly.com/badges/4076d2eb-eeee-4b6a-b8dd-505ee1e4165e/print)
 - Astronomer Certified for AI Orchestration Fundamentals
 - AWS: Becoming a Machine Learning Engineer – Manara
 - AWS: AI Practitioner Certificate – Manara
 - Introduction to Data Science – Cisco Networking Academy
 - Data Science & Analytics – HP LIFE
+
 
 ---
 
@@ -127,3 +129,20 @@ University of Algiers 1 | 2021 – 2024
 ---
 
 ⭐ *Turning data into insights, and insights into decisions.*
+
+---
+
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidBrml&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
+</p>
