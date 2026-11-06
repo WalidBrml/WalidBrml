@@ -97,12 +97,11 @@ University of Algiers 1 | 2021 – 2024
 
 ## 🏅 Certifications
 
-- [SAP Certified – Data Analyst – SAP Analytics Cloud](https://www.credly.com/badges/4076d2eb-eeee-4b6a-b8dd-505ee1e4165e/print)
-- Astronomer Certified for AI Orchestration Fundamentals
-- AWS: Becoming a Machine Learning Engineer – Manara
-- AWS: AI Practitioner Certificate – Manara
-- Introduction to Data Science – Cisco Networking Academy
-- Data Science & Analytics – HP LIFE
+- [SAP Certified – Data Analyst – SAP Analytics Cloud]([https://www.credly.com/badges/4076d2eb-eeee-4b6a-b8dd-505ee1e4165e/print](https://www.credly.com/badges/253a6b31-8330-490d-9cae-ca836e91cb51))
+- [Astronomer Certified for AI Orchestration Fundamentals]([https://www.astronomer.io/certification/](https://www.credly.com/badges/4076d2eb-eeee-4b6a-b8dd-505ee1e4165e/print))
+- [AWS: Becoming a Machine Learning Engineer]([https://support.manara.tech/knowledge/aws-becoming-a-machine-learning-engineer](https://www.linkedin.com/in/walid-bouremel/overlay/Certifications/289059385/treasury/?profileId=ACoAAEAHm5QBhKNn3zG7dOozmYdLO5NV3JWa3uo))
+- [AWS: AI Practitioner Certificate]([https://support.manara.tech/knowledge/aws-ai-practitioner-certificate](https://www.linkedin.com/in/walid-bouremel/overlay/Certifications/288866745/treasury/?profileId=ACoAAEAHm5QBhKNn3zG7dOozmYdLO5NV3JWa3uo))
+- [Introduction to Data Science – Cisco Networking Academy]([https://www.netacad.com/courses/introduction-data-science](https://www.credly.com/badges/647c1b5e-b20e-4e1b-b785-393dc9d865ba))
 
 
 ---
