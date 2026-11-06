@@ -140,14 +140,18 @@ University of Algiers 1 | 2021 – 2024
 
 ---
 
+
+---
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidBrml&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=WalidBrml&theme=default&hide_border=true" width="70%" alt="GitHub Streak Statistics"/>
 </p>
-
----
 
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
 </p>
+
