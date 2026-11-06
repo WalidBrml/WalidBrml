@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="walid_github_banner.png" width="100%" alt="Walid Bouremel - Data Analyst"/>
+</p>
+
 # Hi, I'm Walid Bouremel 👋
 
 ### Data Analyst | Business Intelligence | Data Science
